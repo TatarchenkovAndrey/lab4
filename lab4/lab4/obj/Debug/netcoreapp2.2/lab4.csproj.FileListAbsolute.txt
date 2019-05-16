@@ -1,0 +1,14 @@
+/Users/andreytatarchenkov/Projects/lab4/lab4/bin/Debug/netcoreapp2.2/lab4.deps.json
+/Users/andreytatarchenkov/Projects/lab4/lab4/bin/Debug/netcoreapp2.2/lab4.runtimeconfig.json
+/Users/andreytatarchenkov/Projects/lab4/lab4/bin/Debug/netcoreapp2.2/lab4.runtimeconfig.dev.json
+/Users/andreytatarchenkov/Projects/lab4/lab4/bin/Debug/netcoreapp2.2/lab4.dll
+/Users/andreytatarchenkov/Projects/lab4/lab4/bin/Debug/netcoreapp2.2/lab4.pdb
+/Users/andreytatarchenkov/Projects/lab4/lab4/obj/Debug/netcoreapp2.2/lab4.csprojAssemblyReference.cache
+/Users/andreytatarchenkov/Projects/lab4/lab4/obj/Debug/netcoreapp2.2/lab4.csproj.CoreCompileInputs.cache
+/Users/andreytatarchenkov/Projects/lab4/lab4/obj/Debug/netcoreapp2.2/lab4.RazorAssemblyInfo.cache
+/Users/andreytatarchenkov/Projects/lab4/lab4/obj/Debug/netcoreapp2.2/lab4.RazorAssemblyInfo.cs
+/Users/andreytatarchenkov/Projects/lab4/lab4/obj/Debug/netcoreapp2.2/lab4.AssemblyInfoInputs.cache
+/Users/andreytatarchenkov/Projects/lab4/lab4/obj/Debug/netcoreapp2.2/lab4.AssemblyInfo.cs
+/Users/andreytatarchenkov/Projects/lab4/lab4/obj/Debug/netcoreapp2.2/lab4.RazorTargetAssemblyInfo.cache
+/Users/andreytatarchenkov/Projects/lab4/lab4/obj/Debug/netcoreapp2.2/lab4.dll
+/Users/andreytatarchenkov/Projects/lab4/lab4/obj/Debug/netcoreapp2.2/lab4.pdb
