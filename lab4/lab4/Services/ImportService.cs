@@ -14,21 +14,22 @@ namespace lab4.Services
     {
         private string connString = "Host=db.mirvoda.com;Port=5454;Username=developer;Password=rtfP@ssw0rd;Database=DashaSycheva";
         private string localhost = "";
-        private string url = "https://github.com/SergeyMirvoda/IR-2019/blob/master/data/IMDB%20Movie%20Titles.csv";
+        private string url = "https://raw.githubusercontent.com/SergeyMirvoda/IR-2019/master/data/IMDB%20Movie%20Titles.csv";
         
         public async ValueTask<bool> SetDatabase()
         {
 
             try
             {
-                var req = (HttpWebRequest) WebRequest.Create(url);
-                var resp = (HttpWebResponse) req.GetResponse();
-                var sr = new StreamReader(resp.GetResponseStream());
+                HttpWebRequest req = (HttpWebRequest) WebRequest.Create(url);
+                HttpWebResponse resp = (HttpWebResponse) req.GetResponse();
+                StreamReader sr = new StreamReader(resp.GetResponseStream());
                 var data = sr.ReadToEnd();
                 var array = data.Split(
                     new[] {Environment.NewLine},
                     StringSplitOptions.None
                 );
+
                 array = array.Skip(1).ToArray();
                 if (array[array.Length - 1] == "")
                     Array.Resize(ref array, array.Length - 1);
@@ -50,7 +51,7 @@ namespace lab4.Services
                         var name = brace_index == -1 ? title : title.Substring(0, brace_index);
 
                         //Execute query
-                        var statement = "INSERT INTO movies(id, name, year) VALUES (" + id + ", " + "\'" + name +
+                        var statement = "INSERT INTO table_name(id, name, year) VALUES (" + id + ", " + "\'" + name +
                                         "\'" + ", " + year + ") ON CONFLICT (id) DO NOTHING";
                         var command = new NpgsqlCommand(statement, conn);
                         command.ExecuteNonQuery();
@@ -66,7 +67,7 @@ namespace lab4.Services
             {
                 return false;
             }
-            
         }
+
     }
 }
