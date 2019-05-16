@@ -12,3 +12,17 @@
 /Users/andreytatarchenkov/Projects/lab4/lab4/obj/Debug/netcoreapp2.2/lab4.RazorTargetAssemblyInfo.cache
 /Users/andreytatarchenkov/Projects/lab4/lab4/obj/Debug/netcoreapp2.2/lab4.dll
 /Users/andreytatarchenkov/Projects/lab4/lab4/obj/Debug/netcoreapp2.2/lab4.pdb
+C:\Users\Andrey Tatarchenkov\source\repos\lab4\lab4\lab4\bin\Debug\netcoreapp2.2\lab4.deps.json
+C:\Users\Andrey Tatarchenkov\source\repos\lab4\lab4\lab4\bin\Debug\netcoreapp2.2\lab4.runtimeconfig.json
+C:\Users\Andrey Tatarchenkov\source\repos\lab4\lab4\lab4\bin\Debug\netcoreapp2.2\lab4.runtimeconfig.dev.json
+C:\Users\Andrey Tatarchenkov\source\repos\lab4\lab4\lab4\bin\Debug\netcoreapp2.2\lab4.dll
+C:\Users\Andrey Tatarchenkov\source\repos\lab4\lab4\lab4\bin\Debug\netcoreapp2.2\lab4.pdb
+C:\Users\Andrey Tatarchenkov\source\repos\lab4\lab4\lab4\obj\Debug\netcoreapp2.2\lab4.csprojAssemblyReference.cache
+C:\Users\Andrey Tatarchenkov\source\repos\lab4\lab4\lab4\obj\Debug\netcoreapp2.2\lab4.csproj.CoreCompileInputs.cache
+C:\Users\Andrey Tatarchenkov\source\repos\lab4\lab4\lab4\obj\Debug\netcoreapp2.2\lab4.RazorAssemblyInfo.cache
+C:\Users\Andrey Tatarchenkov\source\repos\lab4\lab4\lab4\obj\Debug\netcoreapp2.2\lab4.RazorAssemblyInfo.cs
+C:\Users\Andrey Tatarchenkov\source\repos\lab4\lab4\lab4\obj\Debug\netcoreapp2.2\lab4.AssemblyInfoInputs.cache
+C:\Users\Andrey Tatarchenkov\source\repos\lab4\lab4\lab4\obj\Debug\netcoreapp2.2\lab4.AssemblyInfo.cs
+C:\Users\Andrey Tatarchenkov\source\repos\lab4\lab4\lab4\obj\Debug\netcoreapp2.2\lab4.RazorTargetAssemblyInfo.cache
+C:\Users\Andrey Tatarchenkov\source\repos\lab4\lab4\lab4\obj\Debug\netcoreapp2.2\lab4.dll
+C:\Users\Andrey Tatarchenkov\source\repos\lab4\lab4\lab4\obj\Debug\netcoreapp2.2\lab4.pdb
